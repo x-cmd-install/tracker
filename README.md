@@ -22,7 +22,15 @@ x install tracker
 - **Latest**: `v0.1.20` (2026-04-25)
 - **Last commit**: 2026-07-05
 - **Assets in release**: 4
-- **Published**: 2026-04-25T09:39:06Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tracker-linux-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-linux-x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
+| [tracker-macos-aarch64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-aarch64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
+| [tracker-macos-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-x86_64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [tracker-windows-x86_64.zip](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-windows-x86_64.zip) | 3.9 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -56,8 +64,8 @@ Total: **2,681** lines of code across **34** files in the top 5 languages.
 Install metadata for tracker lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tracker` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tracker.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tracker.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:58:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:48:18Z._
