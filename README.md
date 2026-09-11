@@ -12,6 +12,17 @@ A terminal-based real-time satellite tracking and orbit prediction application.
 x install tracker
 ```
 
+## Code insight
+
+Total: **2,681** lines of code across **34** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,359 | 61 | 361 | 21 |
+| Yaml | 287 | 35 | 14 | 7 |
+| Toml | 35 | 3 | 4 | 2 |
+| Markdown | 0 | 150 | 60 | 4 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ShenMian/tracker>
@@ -22,15 +33,6 @@ x install tracker
 - **Latest**: `v0.1.20` (2026-04-25)
 - **Last commit**: 2026-07-05
 - **Assets in release**: 4
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [tracker-linux-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-linux-x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
-| [tracker-macos-aarch64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-aarch64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [tracker-macos-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-x86_64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
-| [tracker-windows-x86_64.zip](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-windows-x86_64.zip) | 3.9 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -44,20 +46,21 @@ x install tracker
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 360d | 2025-09-15 | 6 | 8 | 1 | 0 | 0 | 68 |
+| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 2 |
+| last180d | 2026-03-15 | 2 | 5 | 1 | 0 | 0 | 30 |
+| 360d | 2025-09-16 | 6 | 8 | 1 | 0 | 0 | 68 |
+| last720d | 2024-09-21 | 21 | 15 | 1 | 6 | 0 | 353 |
 
-## Code size
+## Release assets
 
-Total: **2,681** lines of code across **34** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 2,359 | 61 | 361 | 21 |
-| Yaml | 287 | 35 | 14 | 7 |
-| Toml | 35 | 3 | 4 | 2 |
-| Markdown | 0 | 150 | 60 | 4 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tracker-linux-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-linux-x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
+| [tracker-macos-aarch64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-aarch64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
+| [tracker-macos-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-x86_64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [tracker-windows-x86_64.zip](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-windows-x86_64.zip) | 3.9 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -68,4 +71,4 @@ Install metadata for tracker lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:48:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:08:30Z._
