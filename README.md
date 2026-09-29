@@ -14,14 +14,14 @@ x install tracker
 
 ## Code insight
 
-Total: **2,681** lines of code across **34** files in the top 5 languages.
+Total: **2,851** lines of code across **34** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 2,359 | 61 | 361 | 21 |
-| Yaml | 287 | 35 | 14 | 7 |
+| Rust | 2,515 | 65 | 385 | 21 |
+| Yaml | 301 | 35 | 14 | 7 |
 | Toml | 35 | 3 | 4 | 2 |
-| Markdown | 0 | 150 | 60 | 4 |
+| Markdown | 0 | 158 | 62 | 4 |
 
 ## Source
 
@@ -30,8 +30,8 @@ Total: **2,681** lines of code across **34** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.20` (2026-04-25)
-- **Last commit**: 2026-09-27
+- **Latest**: `v0.2.0` (2026-09-29)
+- **Last commit**: 2026-09-28
 - **Assets in release**: 4
 
 ## Popularity
@@ -40,27 +40,27 @@ Total: **2,681** lines of code across **34** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 15 · **Open PRs**: 1 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 356
+- **Releases**: 22 · **Merged PRs**: 15 · **Open PRs**: 0 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 361
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-01 | 2 | 5 | 1 | 0 | 0 | 32 |
-| 360d | 2025-10-03 | 6 | 8 | 1 | 0 | 0 | 70 |
-| last720d | 2024-10-08 | 21 | 15 | 1 | 6 | 0 | 356 |
+| 30d | 2026-08-30 | 1 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-31 | 1 | 0 | 0 | 0 | 0 | 7 |
+| 90d | 2026-07-01 | 1 | 0 | 0 | 0 | 0 | 9 |
+| last180d | 2026-04-02 | 3 | 5 | 0 | 0 | 0 | 37 |
+| 360d | 2025-10-04 | 7 | 8 | 0 | 0 | 0 | 75 |
+| last720d | 2024-10-09 | 22 | 15 | 0 | 6 | 0 | 361 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [tracker-linux-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-linux-x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
-| [tracker-macos-aarch64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-aarch64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [tracker-macos-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-x86_64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
-| [tracker-windows-x86_64.zip](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-windows-x86_64.zip) | 3.9 MiB | `native/win/x64` |
+| [tracker-linux-x86_64.tar.zst](https://github.com/ShenMian/tracker/releases/download/v0.2.0/tracker-linux-x86_64.tar.zst) | 4.7 MiB | `native/linux/x64` |
+| [tracker-macos-aarch64.tar.zst](https://github.com/ShenMian/tracker/releases/download/v0.2.0/tracker-macos-aarch64.tar.zst) | 4.4 MiB | `native/darwin/arm64` |
+| [tracker-macos-x86_64.tar.zst](https://github.com/ShenMian/tracker/releases/download/v0.2.0/tracker-macos-x86_64.tar.zst) | 4.4 MiB | `native/darwin/x64` |
+| [tracker-windows-x86_64.zip](https://github.com/ShenMian/tracker/releases/download/v0.2.0/tracker-windows-x86_64.zip) | 3.9 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for tracker lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:35:10Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:00:18Z._

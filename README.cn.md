@@ -14,14 +14,14 @@ x install tracker
 
 ## 代码洞察
 
-合计: **2,681** 行代码（覆盖前 5 种语言、共 **34** 个文件）。
+合计: **2,851** 行代码（覆盖前 5 种语言、共 **34** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 2,359 | 61 | 361 | 21 |
-| Yaml | 287 | 35 | 14 | 7 |
+| Rust | 2,515 | 65 | 385 | 21 |
+| Yaml | 301 | 35 | 14 | 7 |
 | Toml | 35 | 3 | 4 | 2 |
-| Markdown | 0 | 150 | 60 | 4 |
+| Markdown | 0 | 158 | 62 | 4 |
 
 ## 源代码
 
@@ -30,8 +30,8 @@ x install tracker
 
 ## 发布
 
-- **最新版本**: `v0.1.20` (2026-04-25)
-- **最近提交**: 2026-09-27
+- **最新版本**: `v0.2.0` (2026-09-29)
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 4 个
 
 ## 流行度
@@ -40,27 +40,27 @@ x install tracker
 
 ## 累计统计
 
-- **发布数**: 21 · **已合并 PR**: 15 · **开放 PR**: 1 · **已关闭 issue**: 6 · **开放 issue**: 0 · **提交数**: 356
+- **发布数**: 22 · **已合并 PR**: 15 · **开放 PR**: 0 · **已关闭 issue**: 6 · **开放 issue**: 0 · **提交数**: 361
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 2 |
-| last60d | 2026-07-30 | 0 | 0 | 0 | 0 | 0 | 2 |
-| 90d | 2026-06-30 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-04-01 | 2 | 5 | 1 | 0 | 0 | 32 |
-| 360d | 2025-10-03 | 6 | 8 | 1 | 0 | 0 | 70 |
-| last720d | 2024-10-08 | 21 | 15 | 1 | 6 | 0 | 356 |
+| 30d | 2026-08-30 | 1 | 0 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-31 | 1 | 0 | 0 | 0 | 0 | 7 |
+| 90d | 2026-07-01 | 1 | 0 | 0 | 0 | 0 | 9 |
+| last180d | 2026-04-02 | 3 | 5 | 0 | 0 | 0 | 37 |
+| 360d | 2025-10-04 | 7 | 8 | 0 | 0 | 0 | 75 |
+| last720d | 2024-10-09 | 22 | 15 | 0 | 6 | 0 | 361 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tracker-linux-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-linux-x86_64.tar.gz) | 4.7 MiB | `native/linux/x64` |
-| [tracker-macos-aarch64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-aarch64.tar.gz) | 4.4 MiB | `native/darwin/arm64` |
-| [tracker-macos-x86_64.tar.gz](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-macos-x86_64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
-| [tracker-windows-x86_64.zip](https://github.com/ShenMian/tracker/releases/download/v0.1.20/tracker-windows-x86_64.zip) | 3.9 MiB | `native/win/x64` |
+| [tracker-linux-x86_64.tar.zst](https://github.com/ShenMian/tracker/releases/download/v0.2.0/tracker-linux-x86_64.tar.zst) | 4.7 MiB | `native/linux/x64` |
+| [tracker-macos-aarch64.tar.zst](https://github.com/ShenMian/tracker/releases/download/v0.2.0/tracker-macos-aarch64.tar.zst) | 4.4 MiB | `native/darwin/arm64` |
+| [tracker-macos-x86_64.tar.zst](https://github.com/ShenMian/tracker/releases/download/v0.2.0/tracker-macos-x86_64.tar.zst) | 4.4 MiB | `native/darwin/x64` |
+| [tracker-windows-x86_64.zip](https://github.com/ShenMian/tracker/releases/download/v0.2.0/tracker-windows-x86_64.zip) | 3.9 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ tracker 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:35:10Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T06:00:18Z._
