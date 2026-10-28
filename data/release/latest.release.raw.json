@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ShenMian/tracker/releases/403097948",
-  "assets_url": "https://api.github.com/repos/ShenMian/tracker/releases/403097948/assets",
-  "upload_url": "https://uploads.github.com/repos/ShenMian/tracker/releases/403097948/assets{?name,label}",
-  "html_url": "https://github.com/ShenMian/tracker/releases/tag/v0.2.1",
-  "id": 403097948,
+  "url": "https://api.github.com/repos/ShenMian/tracker/releases/426257335",
+  "assets_url": "https://api.github.com/repos/ShenMian/tracker/releases/426257335/assets",
+  "upload_url": "https://uploads.github.com/repos/ShenMian/tracker/releases/426257335/assets{?name,label}",
+  "html_url": "https://github.com/ShenMian/tracker/releases/tag/v0.2.2",
+  "id": 426257335,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDONVSCyM4YBslc",
-  "tag_name": "v0.2.1",
+  "node_id": "RE_kwDONVSCyM4ZaCu3",
+  "tag_name": "v0.2.2",
   "target_commitish": "main",
-  "name": "v0.2.1",
+  "name": "v0.2.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-04T16:04:38Z",
-  "updated_at": "2026-10-04T16:11:26Z",
-  "published_at": "2026-10-04T16:08:46Z",
+  "created_at": "2026-10-28T04:16:31Z",
+  "updated_at": "2026-10-28T04:21:24Z",
+  "published_at": "2026-10-28T04:18:42Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ShenMian/tracker/releases/assets/610152138",
-      "id": 610152138,
-      "node_id": "RA_kwDONVSCyM4kXi7K",
+      "url": "https://api.github.com/repos/ShenMian/tracker/releases/assets/683795856",
+      "id": 683795856,
+      "node_id": "RA_kwDONVSCyM4oweWQ",
       "name": "tracker-linux-x86_64.tar.zst",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 4909956,
-      "digest": "sha256:dc7a20eadc2bd14eecc3538cf1c7e4b0c236a01fe145d170090f31f508461728",
-      "download_count": 41,
-      "created_at": "2026-10-04T16:09:31Z",
-      "updated_at": "2026-10-04T16:09:31Z",
-      "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.1/tracker-linux-x86_64.tar.zst"
+      "size": 4921039,
+      "digest": "sha256:e4f1bcc2441b0ff28a13c0646f0c2e1ff9e03684292a17d7ec8b7348c3cf5a9d",
+      "download_count": 0,
+      "created_at": "2026-10-28T04:18:51Z",
+      "updated_at": "2026-10-28T04:18:52Z",
+      "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-linux-x86_64.tar.zst"
     },
     {
-      "url": "https://api.github.com/repos/ShenMian/tracker/releases/assets/610154150",
-      "id": 610154150,
-      "node_id": "RA_kwDONVSCyM4kXjam",
+      "url": "https://api.github.com/repos/ShenMian/tracker/releases/assets/683798329",
+      "id": 683798329,
+      "node_id": "RA_kwDONVSCyM4owe85",
       "name": "tracker-macos-aarch64.tar.zst",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 4661870,
-      "digest": "sha256:99d1ea7b5185baa106d5cefe552bfbc02d3ce7b41aeb8e3a55cb4457643a87fd",
-      "download_count": 11,
-      "created_at": "2026-10-04T16:10:53Z",
-      "updated_at": "2026-10-04T16:10:53Z",
-      "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.1/tracker-macos-aarch64.tar.zst"
+      "size": 4672577,
+      "digest": "sha256:7ec7455414b9cf12e7f48d30f756f133893f342a158c4d007d354781ad2a28a8",
+      "download_count": 0,
+      "created_at": "2026-10-28T04:20:17Z",
+      "updated_at": "2026-10-28T04:20:18Z",
+      "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-macos-aarch64.tar.zst"
     },
     {
-      "url": "https://api.github.com/repos/ShenMian/tracker/releases/assets/610151022",
-      "id": 610151022,
-      "node_id": "RA_kwDONVSCyM4kXipu",
+      "url": "https://api.github.com/repos/ShenMian/tracker/releases/assets/683795588",
+      "id": 683795588,
+      "node_id": "RA_kwDONVSCyM4oweSE",
       "name": "tracker-macos-x86_64.tar.zst",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 4646308,
-      "digest": "sha256:74fc72270b4bcb9e517bf0ab9d7fe634f041335a534c8932c1217f4a0a6c978b",
-      "download_count": 12,
-      "created_at": "2026-10-04T16:08:45Z",
-      "updated_at": "2026-10-04T16:08:46Z",
-      "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.1/tracker-macos-x86_64.tar.zst"
+      "size": 4660749,
+      "digest": "sha256:c6791e8a1e837d4927b0859c5479ff334cd2979e2b66e2f347062b7a0f16fd38",
+      "download_count": 0,
+      "created_at": "2026-10-28T04:18:41Z",
+      "updated_at": "2026-10-28T04:18:42Z",
+      "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-macos-x86_64.tar.zst"
     },
     {
-      "url": "https://api.github.com/repos/ShenMian/tracker/releases/assets/610154854",
-      "id": 610154854,
-      "node_id": "RA_kwDONVSCyM4kXjlm",
+      "url": "https://api.github.com/repos/ShenMian/tracker/releases/assets/683800459",
+      "id": 683800459,
+      "node_id": "RA_kwDONVSCyM4owfeL",
       "name": "tracker-windows-x86_64.zip",
       "label": "",
       "uploader": {
@@ -173,15 +173,15 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 4046798,
-      "digest": "sha256:67eb2d4ba2e36aec1fe5eb858c65cddaed82908403281c77b4cd3a378fbc3dc4",
-      "download_count": 76,
-      "created_at": "2026-10-04T16:11:26Z",
-      "updated_at": "2026-10-04T16:11:26Z",
-      "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.1/tracker-windows-x86_64.zip"
+      "size": 4054190,
+      "digest": "sha256:39b1b8a9f8174b30ac4bf2d112df4dc9c982e94f8c252f73ecef7ddc55938f1e",
+      "download_count": 3,
+      "created_at": "2026-10-28T04:21:24Z",
+      "updated_at": "2026-10-28T04:21:24Z",
+      "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-windows-x86_64.zip"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ShenMian/tracker/tarball/v0.2.1",
-  "zipball_url": "https://api.github.com/repos/ShenMian/tracker/zipball/v0.2.1",
-  "body": "## [0.2.1] - 2026-10-04\r\n\r\n### 🚀 Features\r\n\r\n- Add configuration validation\r\n- Add descriptive configuration validation errors\r\n\r\n### 🐛 Bug Fixes\r\n\r\n- Handle prediction errors gracefully and adjust sky track elevation threshold\r\n\r\n### ⚡ Performance\r\n\r\n- *(timeline)* Cache satellite pass times in timeline state\r\n\r\n### 🚜 Refactor\r\n\r\n- Simplify group handling and improve diagnostics\r\n- *(config)* Validate configuration after loading\r\n- *(config)* Clarify configuration error naming\r\n- *(config)* Model group identifiers as an enum\r\n- *(group)* Use anyhow Result for error handling\r\n- *(timeline)* Rename HOURS_WINDOW to WINDOW_HOURS and use f64\r\n\r\n### 🎨 Styling\r\n\r\n- *(config)* Suppress clippy enum variant names lint for ConfigError\r\n\r\n### 🧪 Testing\r\n\r\n- *(config)* Verify default configuration is valid"
+  "tarball_url": "https://api.github.com/repos/ShenMian/tracker/tarball/v0.2.2",
+  "zipball_url": "https://api.github.com/repos/ShenMian/tracker/zipball/v0.2.2",
+  "body": "## 0.2.2 Release\r\n\r\n### 🐛 Bug Fixes\r\n\r\n- Avoid panic when satellite propagation fails\r\n- Skip orbital elements that SGP4 cannot initialize\r\n- Route events only to the visible tab\r\n\r\n### 🚜 Refactor\r\n\r\n- *(widgets)* Share the centered paragraph helper\r\n- *(satellite_groups)* Drop always-empty return from reload_selected_entries\r\n- *(timeline)* Use Duration::hours and canvas Line constructor\r\n\r\n### ⚙️ Miscellaneous Tasks\r\n\r\n- Enable the test job\r\n\r\n### 💼 Other\r\n\r\n- *(deps)* Bump rustls from 0.23.45 to 0.23.46 (#44)\r\n- Bump version to 0.2.2"
 }
