@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4921039,
       "digest": "sha256:e4f1bcc2441b0ff28a13c0646f0c2e1ff9e03684292a17d7ec8b7348c3cf5a9d",
-      "download_count": 0,
+      "download_count": 3,
       "created_at": "2026-10-28T04:18:51Z",
       "updated_at": "2026-10-28T04:18:52Z",
       "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-linux-x86_64.tar.zst"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4672577,
       "digest": "sha256:7ec7455414b9cf12e7f48d30f756f133893f342a158c4d007d354781ad2a28a8",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-28T04:20:17Z",
       "updated_at": "2026-10-28T04:20:18Z",
       "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-macos-aarch64.tar.zst"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4660749,
       "digest": "sha256:c6791e8a1e837d4927b0859c5479ff334cd2979e2b66e2f347062b7a0f16fd38",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-28T04:18:41Z",
       "updated_at": "2026-10-28T04:18:42Z",
       "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-macos-x86_64.tar.zst"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4054190,
       "digest": "sha256:39b1b8a9f8174b30ac4bf2d112df4dc9c982e94f8c252f73ecef7ddc55938f1e",
-      "download_count": 3,
+      "download_count": 28,
       "created_at": "2026-10-28T04:21:24Z",
       "updated_at": "2026-10-28T04:21:24Z",
       "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-windows-x86_64.zip"
