@@ -31,7 +31,7 @@ Total: **2,956** lines of code across **35** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.2` (2026-10-28)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 - **Assets in release**: 4
 
 ## Popularity
@@ -46,12 +46,12 @@ Total: **2,956** lines of code across **35** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 2 | 1 | 0 | 1 | 0 | 10 |
-| last60d | 2026-09-03 | 3 | 1 | 0 | 2 | 0 | 31 |
-| 90d | 2026-08-04 | 3 | 1 | 0 | 2 | 0 | 31 |
-| last180d | 2026-05-06 | 3 | 2 | 0 | 2 | 0 | 45 |
-| 360d | 2025-11-07 | 8 | 9 | 0 | 2 | 0 | 95 |
-| last720d | 2024-11-12 | 24 | 16 | 0 | 8 | 0 | 385 |
+| 30d | 2026-10-04 | 2 | 1 | 0 | 1 | 0 | 10 |
+| last60d | 2026-09-04 | 3 | 1 | 0 | 2 | 0 | 31 |
+| 90d | 2026-08-05 | 3 | 1 | 0 | 2 | 0 | 31 |
+| last180d | 2026-05-07 | 3 | 2 | 0 | 2 | 0 | 45 |
+| 360d | 2025-11-08 | 8 | 9 | 0 | 2 | 0 | 95 |
+| last720d | 2024-11-13 | 24 | 16 | 0 | 8 | 0 | 385 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for tracker lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:19:13Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:11:39Z._
