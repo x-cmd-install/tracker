@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4921039,
       "digest": "sha256:e4f1bcc2441b0ff28a13c0646f0c2e1ff9e03684292a17d7ec8b7348c3cf5a9d",
-      "download_count": 20,
+      "download_count": 22,
       "created_at": "2026-10-28T04:18:51Z",
       "updated_at": "2026-10-28T04:18:52Z",
       "browser_download_url": "https://github.com/ShenMian/tracker/releases/download/v0.2.2/tracker-linux-x86_64.tar.zst"
